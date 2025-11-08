@@ -1,6 +1,9 @@
 # Kryn
 🚀 Kryn – Hash Cracker Premium Edition is a powerful, GUI-based hash cracking tool built with Python and Tkinter, designed for ethical hackers, cybersecurity researchers, and digital forensics enthusiasts. 💻✨
 
+<img width="1920" height="1172" alt="Kryn" src="https://github.com/user-attachments/assets/8fdccc6d-da07-4d43-9088-c2f222cc5d51" />
+
+
 # 🔐 Kryn - Hash Cracker Premium Edition
 
 **Kryn** is a modern **GUI-based hash cracking tool** built using **Python (Tkinter)**.  
